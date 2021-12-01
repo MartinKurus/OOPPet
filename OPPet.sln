@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPPet", "OPPet\OPPet.csproj", "{8163C0E3-2455-4A49-9F87-E4EBC1B09C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPCar", "OOPCar\OOPCar.csproj", "{AA3139BF-3A50-4B1B-B1A9-86C8437A2D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8163C0E3-2455-4A49-9F87-E4EBC1B09C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8163C0E3-2455-4A49-9F87-E4EBC1B09C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8163C0E3-2455-4A49-9F87-E4EBC1B09C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8163C0E3-2455-4A49-9F87-E4EBC1B09C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3139BF-3A50-4B1B-B1A9-86C8437A2D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3139BF-3A50-4B1B-B1A9-86C8437A2D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3139BF-3A50-4B1B-B1A9-86C8437A2D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3139BF-3A50-4B1B-B1A9-86C8437A2D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50AFE35E-91F9-4765-B88F-4955F8CDFBA8}
+	EndGlobalSection
+EndGlobal

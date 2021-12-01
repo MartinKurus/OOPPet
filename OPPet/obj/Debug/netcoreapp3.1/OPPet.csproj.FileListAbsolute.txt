@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OPPet\OPPet\bin\Debug\netcoreapp3.1\OPPet.exe
+C:\Users\opilane\source\repos\OPPet\OPPet\bin\Debug\netcoreapp3.1\OPPet.deps.json
+C:\Users\opilane\source\repos\OPPet\OPPet\bin\Debug\netcoreapp3.1\OPPet.runtimeconfig.json
+C:\Users\opilane\source\repos\OPPet\OPPet\bin\Debug\netcoreapp3.1\OPPet.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OPPet\OPPet\bin\Debug\netcoreapp3.1\OPPet.dll
+C:\Users\opilane\source\repos\OPPet\OPPet\bin\Debug\netcoreapp3.1\OPPet.pdb
+C:\Users\opilane\source\repos\OPPet\OPPet\obj\Debug\netcoreapp3.1\OPPet.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OPPet\OPPet\obj\Debug\netcoreapp3.1\OPPet.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OPPet\OPPet\obj\Debug\netcoreapp3.1\OPPet.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OPPet\OPPet\obj\Debug\netcoreapp3.1\OPPet.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OPPet\OPPet\obj\Debug\netcoreapp3.1\OPPet.dll
+C:\Users\opilane\source\repos\OPPet\OPPet\obj\Debug\netcoreapp3.1\OPPet.pdb
+C:\Users\opilane\source\repos\OPPet\OPPet\obj\Debug\netcoreapp3.1\OPPet.genruntimeconfig.cache
